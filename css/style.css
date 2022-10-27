@@ -21,7 +21,7 @@ body{
     display: inline-block;
     width: 350px;
     height: 508px;
-    background-image: url(assets/bg-ignite-verde.svg);
+    background-image: url(bg-explorer.svg);
     cursor: pointer;
     
     opacity: 0;
