@@ -27,8 +27,7 @@ body{
     opacity: 0;
     transform: translateY(-100px);
     animation: appear 0.4s forwards;
-    user-select: none;
-    -webkit-user-select: none;
+    
 }
 
 .card > img{
@@ -36,13 +35,7 @@ body{
     margin-top: 115px;
     border: 4px solid #F7DD43 ;
     border-radius: 6em;
-    object-fit: cover;
-    
-    pointer-events: none;
-    user-select: none;
-    -webkit-user-select: none;
-
-    
+    object-fit: cover;  
 }
 .info {
     color:azure;
