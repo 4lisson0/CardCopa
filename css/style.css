@@ -21,7 +21,7 @@ body{
     display: inline-block;
     width: 350px;
     height: 508px;
-    background-image: url(bg-explorer.svg);
+    background-image:url(https://raw.githubusercontent.com/4lisson0/CardCopa/6801dcd8fcaa93e154f0a251249abaf3ce2adc34/assets/bg-explorer.svg);
     cursor: pointer;
     
     opacity: 0;
